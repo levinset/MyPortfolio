@@ -1,4 +1,8 @@
-# React + Vite
+# React + Vite + Tailwind
+
+# This is my first challenge in my internship of modern web development at coding school worthersee
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
